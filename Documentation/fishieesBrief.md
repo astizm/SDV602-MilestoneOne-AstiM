@@ -29,3 +29,6 @@ The data viewable is able to be manipulated by continent, fish species or type, 
 Constraints have been set to limit the available views to countries in the Oceania region as well as reducing the years of data available to post 2000.
 Wireframe Drafts
   
+
+
+--added themes chosen (Dark Teal 7, Light Blue 3)
