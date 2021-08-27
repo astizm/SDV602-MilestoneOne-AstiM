@@ -8,7 +8,7 @@ from PySimpleGUI.PySimpleGUI import MENU_SHORTCUT_CHARACTER, Element, MenuBar, r
 #Window requirements
 sg.theme('LightBlue3')
 layout = [[]]
-window = sg.Window('Fishiees', layout, size=(4000, 220))
+window = sg.Window('Fishiees', element_justification = CENTER, text_justification = LEFT, size = (300, 500))
 
 #Assign variable to new flexform
 login = sg.FlexForm(
