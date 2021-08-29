@@ -11,7 +11,3 @@ fig = px.line(mzz, y = 'VALUE', x = 'PERIOD')
 fig.show()
 
 
-wag = pd.read_csv('CL_FL_WATERAREA_GROUPS.csv')
-cgo = pd.read_csv('CL_FL_COUNTRYGROUPS_OCEANIA.csv')
-cgo.head()
-wag.head()
