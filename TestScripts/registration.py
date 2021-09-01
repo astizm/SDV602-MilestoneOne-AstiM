@@ -11,7 +11,8 @@ layout = [[]]
 register = sg.Window('Fishiees', element_justification=CENTER, text_justification=LEFT, size=(300,500))
 
 #Create layout
-layout = [ 
+layout = [
+    [sg.Titlebar('Fishiees')],
     [sg.Text('New User')],
     [sg.InputText('Email')], 
     [sg.InputText('Password')],
@@ -23,8 +24,9 @@ layout = [
     
     [sg.Cancel(), sg.Submit()]
 ]
+
 button, values = register.Layout(layout).Read()
-print(sg.Window.get_screen_size())
+
 
 #w,h = sg.Window.get_screen_dimensions()
 

@@ -16,6 +16,7 @@ login = sg.FlexForm(
 
 #Create layout
 layout = [
+    [sg.Titlebar('Fishiees')],
     [sg.InputText('Email')],
     [sg.InputText('Password')],
     [sg.Cancel(), sg.Submit()],
