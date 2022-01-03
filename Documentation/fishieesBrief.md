@@ -32,29 +32,29 @@ Constraints have been set to limit the available views to countries in the Ocean
 
 Opening Screen for Fishiees Application 
 
-![](C:\Users\ASUS\OneDrive - NMIT\Documents\Sem2 2021\SDV602\SDV602-MilestoneOne-AstiM\Documentation\src\Android Phone Wireframe1 - Landing.jpg)
+![](Documentation\src\Android%20Phone%20Wireframe1%20-%20Landing.jpg)
 
 User goes to login, login screen loads and provides inputs for credentials
 
-![Android Phone Wireframe2 - Login](C:\Users\ASUS\OneDrive - NMIT\Documents\Sem2 2021\SDV602\SDV602-MilestoneOne-AstiM\Documentation\src\Android Phone Wireframe2 - Login.jpg)
+![](Documentation\src\Android%20Phone%20Wireframe2%20-%20Login.jpg)
 
 User enters correct credentials is logged in and returned to logged in landing page.
-![Android Phone Wireframe4](C:\Users\ASUS\OneDrive - NMIT\Documents\Sem2 2021\SDV602\SDV602-MilestoneOne-AstiM\Documentation\src\Android Phone Wireframe4.jpg)
+![Logged in](Documentation\src\Android%20Phone%20Wireframe4.jpg)
 
 User clicks "Create Graph"
 
- ![Landing_Logged in user - Create Graph](C:\Users\ASUS\OneDrive - NMIT\Documents\Sem2 2021\SDV602\SDV602-MilestoneOne-AstiM\Documentation\src\Landing_Logged in user - Create Graph.jpg)
+ ![Landing_Logged in user - Create Graph](Documentation\src\Landing_LoggedInUser-Create_Graph.jpg)
 
 User enters required input for graph and then selects "Okay". Graph is returned with required data.
-
-![
-](C:\Users\ASUS\OneDrive - NMIT\Documents\Sem2 2021\SDV602\SDV602-MilestoneOne-AstiM\Documentation\src\Android Phone Wireframe3 - Graph Result.jpg)
+![Graph result](Documentation\src\Android%20Phone%20Wireframe3%20-%20Graph%20Result.jpg)
 
 User is able to return to the previous input page to create a new graph or manipulate existing data.
 
 ##### Miscellaneous
 
 Registration page
+![Registration](Documentation\src\Register-Register.jpg)
 
-![Register - Register]()
+
+
 
