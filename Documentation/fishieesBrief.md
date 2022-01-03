@@ -32,28 +32,27 @@ Constraints have been set to limit the available views to countries in the Ocean
 
 Opening Screen for Fishiees Application 
 
-![](Documentation\src\Android%20Phone%20Wireframe1%20-%20Landing.jpg)
+![Landing Page](src/AndroidPhone_Wireframe1-Landing.jpg)
 
 User goes to login, login screen loads and provides inputs for credentials
 
-![](Documentation\src\Android%20Phone%20Wireframe2%20-%20Login.jpg)
+![Login Page](src/AndroidPhone_Wireframe2-Login.jpg)
 
 User enters correct credentials is logged in and returned to logged in landing page.
-![Logged in](Documentation\src\Android%20Phone%20Wireframe4.jpg)
+![Logged in](src/AndroidPhone_Wireframe4-LoggedIn.jpg)
 
 User clicks "Create Graph"
-
- ![Landing_Logged in user - Create Graph](Documentation\src\Landing_LoggedInUser-Create_Graph.jpg)
+![Create Graph](src/Landing_LoggedInUser-Create_Graph.jpg)
 
 User enters required input for graph and then selects "Okay". Graph is returned with required data.
-![Graph result](Documentation\src\Android%20Phone%20Wireframe3%20-%20Graph%20Result.jpg)
+![Graph result](src/AndroidPhone_Wireframe3-Graph-Result.jpg)
 
 User is able to return to the previous input page to create a new graph or manipulate existing data.
 
 ##### Miscellaneous
 
 Registration page
-![Registration](Documentation\src\Register-Register.jpg)
+![Register user](src/Register-Register.jpg)
 
 
 
